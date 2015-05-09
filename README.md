@@ -1,4 +1,4 @@
-# urbanos
+# Urbanos "Arte + Tecnología"
 Rescatando paredes
 
 ## Objetivo
@@ -13,3 +13,9 @@ Tener identificadas a las personas capaces de aportar su creatividad para la ciu
 ## Inicitativa
 Esta plataforma forma parte de un esfuerzo propio como "Hack Tabasco", no formamos parte de ningun partido politico, ni nuestra aspiracion es hacer dinero de esto. Mas sin embargo estaremos abiertos a buscar un modelo lucrativo en donde podamos conseguir fondos para tener los recursos destinados a cubrir los mismos gastos que se generen de tiempo y esfuerzo. En este caso todos tendremos voz y voto.
 
+## Ejemplos
+
+ - [Arte en las calles de Austin TX](https://www.google.com/maps/d/u/0/viewer?msa=0&mid=zoBiDiVqjKcg.krF83-yP5y9M)
+ - [Las Paredes de Wynwood Miami FL](http://thewynwoodwalls.com)
+
+![alt text](http://www.skyscanner.com/sites/com/files/680-brooklyn-street-art-24-june-14.jpg "Logo Title Text 1")
