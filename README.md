@@ -19,3 +19,10 @@ Esta plataforma forma parte de un esfuerzo propio como "Hack Tabasco", no formam
  - [Las Paredes de Wynwood Miami FL](http://thewynwoodwalls.com)
 
 ![alt text](http://www.skyscanner.com/sites/com/files/680-brooklyn-street-art-24-june-14.jpg "Logo Title Text 1")
+
+![alt text](http://thewynwoodwalls.com/resources/images/main/wynwood_walls_artists/nunca/img_4.jpg "Logo Title Text 1")
+
+![alt text](https://s-media-cache-ak0.pinimg.com/originals/45/b4/f3/45b4f3962d23e7036f62db3a53f44aca.jpg "Logo Title Text 1")
+
+![alt text](http://thewynwoodwalls.com/resources/images/main/wynwood_walls_artists/aiko/img_5.jpg "Logo Title Text 1")
+
