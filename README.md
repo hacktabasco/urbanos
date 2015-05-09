@@ -1,0 +1,15 @@
+# urbanos
+Rescatando paredes
+
+## Objetivo
+ - Rescatar los espacios abandonados por medio de la ayuda de los artistas y creativos urbanos, ofreciendo espacios para mostrar su trabajo buscando que se den a conocer y que tengamos mas cultura en las calles.
+ - Mostrar la ciudad al mundo y que se den cuenta que tiene cultura y apreciacion por las artes urbanas como lo es en otros paises.
+ - Fusionar la arte con la tecnologia, el buscar el contacto con las personas creativas y nosotros los tecnologos quienes sabemos como llevar esto a una escala mundial.
+ - Crear una comunidad en donde todos tengamos sinergia y voz, en donde cada quien aporte de manera abierta lo que sabe hacer.
+ 
+## listado
+Tener identificadas a las personas capaces de aportar su creatividad para la ciudad, incluso en cualquier parte del mundo
+
+## Inicitativa
+Esta plataforma forma parte de un esfuerzo propio como "Hack Tabasco", no formamos parte de ningun partido politico, ni nuestra aspiracion es hacer dinero de esto. Mas sin embargo estaremos abiertos a buscar un modelo lucrativo en donde podamos conseguir fondos para tener los recursos destinados a cubrir los mismos gastos que se generen de tiempo y esfuerzo. En este caso todos tendremos voz y voto.
+
